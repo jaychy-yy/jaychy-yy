@@ -10,6 +10,7 @@ Welcome to my Github, who loves Java!
 ![Spring](https://img.shields.io/badge/Spring-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-6DB33F?style=&logo=Spring)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0095D5?style=&logo=Kotlin)
 ![Docker](https://img.shields.io/badge/Docker-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-2496ED?style=&logo=Docker)
+![MySQL](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-4479A1?style=&logo=MySQL)
 ![AWS](https://img.shields.io/badge/AWS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-232F3E?style=&logo=Amazon)
 
 ### 💻 Information
