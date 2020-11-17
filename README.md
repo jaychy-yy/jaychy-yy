@@ -5,7 +5,13 @@
 [![JinHyeok's github stats](https://github-readme-stats.vercel.app/api?username=Lee-Jin-Hyeok&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Jin-Hyeok&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+### 🔧 Skills
 ![Java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-6DB33F?style=&logo=Java)
+![Spring](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-6DB33F?style=&logo=Spring)
+![Kotlin](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-6DB33F?style=&logo=Kotlin)
+![Docker](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-6DB33F?style=&logo=Docker)
+![AWS](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-6DB33F?style=&logo=AWS)
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLee-Jin-Hyeok&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
