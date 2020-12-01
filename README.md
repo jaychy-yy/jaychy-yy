@@ -16,7 +16,7 @@ Welcome to my Github, who loves Java!
 
 ![GitHub](https://img.shields.io/badge/GitHub-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-181717?style=&logo=GitHub)
 ![Notion](https://img.shields.io/badge/Notion-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-000000?style=&logo=Notion)
-![Slack](https://img.shields.io/badge/Slack-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-4A154B?style=&logo=Slack)
+![Slack](https://img.shields.io/badge/Slack-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-4A154B?style=&logo=Slack)
 ![Jira](https://img.shields.io/badge/Jira-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0052CC?style=&logo=Jira)
 
 ### 💻 Information
