@@ -20,6 +20,7 @@ Welcome to my Github, who loves Java!
 ![Jira](https://img.shields.io/badge/Jira-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0052CC?style=&logo=Jira)
 
 ### 💻 Information
+- Portfolio : https://www.notion.so/jaychy/d7064e67825d4e4b8630d68412306e30 (진행중)
 - Email : 0816jinjin@gmail.com
 - Velog : https://velog.io/@dhwlddjgmanf
 
