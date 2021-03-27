@@ -6,21 +6,20 @@ Welcome to my Github, who loves Java!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Jin-Hyeok&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔧 Skill
-![Java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-B7472A?style=&logo=Java)
-![Spring](https://img.shields.io/badge/Spring-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-6DB33F?style=&logo=Spring)
-![Kotlin](https://img.shields.io/badge/Kotlin-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0095D5?style=&logo=Kotlin)
+![Java](https://img.shields.io/badge/Java-B7472A?style=&logo=Java)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=&logo=Spring)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=&logo=Kotlin)
 
-![Docker](https://img.shields.io/badge/Docker-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-2496ED?style=&logo=Docker)
-![MySQL](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-4479A1?style=&logo=MySQL)
-![AWS](https://img.shields.io/badge/AWS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-232F3E?style=&logo=Amazon)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=&logo=Docker)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=&logo=MySQL)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=&logo=Amazon)
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=&logo=GitHub)
-![Notion](https://img.shields.io/badge/Notion-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-000000?style=&logo=Notion)
-![Slack](https://img.shields.io/badge/Slack-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-4A154B?style=&logo=Slack)
-![Jira](https://img.shields.io/badge/Jira-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0052CC?style=&logo=Jira)
+![Notion](https://img.shields.io/badge/Notion-000000?style=&logo=Notion)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=&logo=Slack)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=&logo=Jira)
 
 ### 💻 Information
-- Portfolio : https://www.notion.so/jaychy/d7064e67825d4e4b8630d68412306e30 (진행중)
 - Email : 0816jinjin@gmail.com
 - Velog : https://velog.io/@dhwlddjgmanf
 
