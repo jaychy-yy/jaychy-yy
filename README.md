@@ -1,11 +1,7 @@
 # 😸 Welcome to JinHyeok's GitHub!!
-Welcome to my Github, who loves Java!
+Welcome to my GitHub, where developing life is happy!
 
-### 💪 Stat
-[![JinHyeok's github stats](https://github-readme-stats.vercel.app/api?username=Lee-Jin-Hyeok&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Jin-Hyeok&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🔧 Skill
+### 🛠 Skill
 ![Java](https://img.shields.io/badge/Java-B7472A?style=&logo=Java)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=&logo=Spring)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=&logo=Kotlin)
