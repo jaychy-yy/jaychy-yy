@@ -1,4 +1,4 @@
-# 😸 Welcome to JinHyeok's GitHub!!
+# 😸 Hello!!
 Welcome to my GitHub, where developing life is happy!
 
 ### 🛠 Skill
