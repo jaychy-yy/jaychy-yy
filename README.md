@@ -1,8 +1,6 @@
 # 😸 Hello!!
 Welcome to my GitHub, where developing life is happy!
 
----
-
 ### 🛠 Skill
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=&logo=Kotlin)
 ![Java](https://img.shields.io/badge/Java-B7472A?style=&logo=Java)
