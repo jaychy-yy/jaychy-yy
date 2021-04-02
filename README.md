@@ -1,5 +1,4 @@
-# 😸 Hello!!
-Welcome to my GitHub, where developing life is happy!
+# 😸 Welcome to my GitHub, where developing life is happy!
 
 ### 🛠 Skill
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=&logo=Kotlin)
@@ -13,11 +12,8 @@ Welcome to my GitHub, where developing life is happy!
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=&logo=Slack)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=&logo=Jira)
 
+---
+
 ### 💻 Information
 - Email : 0816jinjin@gmail.com
 - Velog : https://velog.io/@dhwlddjgmanf
-
----
-
-### 🌾 others
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLee-Jin-Hyeok&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
