@@ -1,4 +1,4 @@
-# 😸 안녕하세요!!
+# 🦑 안녕하세요!!
 Welcome to my GitHub, where developing life is happy!
 
 ### 🛠 Skill
