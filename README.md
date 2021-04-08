@@ -2,7 +2,7 @@
 Welcome to my GitHub, where developing life is happy!
 
 ### 🛠 Skill
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=&logo=Kotlin)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5)
 ![Java](https://img.shields.io/badge/Java-B7472A?style=&logo=Java)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=&logo=Spring)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=&logo=Docker)
