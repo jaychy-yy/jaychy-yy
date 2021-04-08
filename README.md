@@ -1,5 +1,5 @@
 # 🦑 안녕하세요!!
-Welcome to my GitHub, where developing life is happy!
+아름다운 코드와 TDD를 지향하며, 개발하는 것 자체가 행복한 백엔드 개발자입니다.  
 
 ### 🛠 Skill
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5)
