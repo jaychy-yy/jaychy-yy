@@ -16,5 +16,5 @@
 ---
 
 ### 💻 Information
-- Email : 0816jinjin@gmail.com
+- Email : jaychy.yy@gmail.com
 - Velog : https://velog.io/@dhwlddjgmanf
