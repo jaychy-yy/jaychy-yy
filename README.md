@@ -15,6 +15,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B)
 ![Jira](https://img.shields.io/badge/Jira-0052CC)  
 
+
 ---
 
 ### 💻 Information
