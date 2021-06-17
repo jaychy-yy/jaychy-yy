@@ -20,5 +20,5 @@
 - [SNS](https://www.facebook.com/profile.php?id=100011390962545)  
 
 ## Information
-- 대덕소프트웨어마이스터고등학교 5기 백엔드 개발자
+- 대덕소프트웨어마이스터고등학교 5기 재학 중
 - [Blog](https://velog.io/@dhwlddjgmanf)  
