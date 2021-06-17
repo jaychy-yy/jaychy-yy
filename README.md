@@ -10,5 +10,8 @@
 ***Communications: Github, Notion, Slack, Jira***  
 
 ## Contacts
-- Email : jaychy.yy@gmail.com
-- Velog : https://velog.io/@dhwlddjgmanf
+- [Email](jaychy.yy@gmail.com)  
+
+## Information
+- 대덕소프트웨어마이스터고등학교 5기 백엔드 개발자
+- [Blog](https://velog.io/@dhwlddjgmanf)  
