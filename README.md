@@ -8,8 +8,6 @@
 ***Infra Managements: Docker, EC2, S3, RDS, Route53***  
 ***Communications: Github, Notion, Slack, Jira***  
 
----
-
-### 💻 Information
+## Contacts
 - Email : jaychy.yy@gmail.com
 - Velog : https://velog.io/@dhwlddjgmanf
