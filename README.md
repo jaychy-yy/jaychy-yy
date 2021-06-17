@@ -10,7 +10,7 @@
 ***Communications: Github, Notion, Slack, Jira***  
 
 ## Contacts
-- [Email](jaychy.yy@gmail.com)  
+- Email : jaychy.yy@gmail.com  
 
 ## Information
 - 대덕소프트웨어마이스터고등학교 5기 백엔드 개발자
