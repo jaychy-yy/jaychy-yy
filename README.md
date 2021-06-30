@@ -9,7 +9,7 @@
 ***Main Languages: Kotlin, Java***  
 ***Web Frameworks: Spring Boot, Spring Security, JPA/Hibernate, Spring Webflux***  
 ***Test Frameworks: Mockito, MockK***  
-***Storages: MySQL, Redis***  
+***Storages: MySQL, Redis, H2***  
 ***Infra Managements: Docker, EC2, S3, RDS, Route53***  
 ***Communications: Github, Notion, Slack, Jira***  
 
