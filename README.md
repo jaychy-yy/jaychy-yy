@@ -19,6 +19,11 @@
 - [시크릿주주 - 뉴스 기반 주식 추천 서비스](https://github.com/secret-juju/rosa)  
 - [Memorize - 스프링 공식 문서 기반 영어 단어 암기장 서비스](https://github.com/jaychy-yy/memorize)  
 
+## Certifications
+- ***2018. 10. 04. 정보처리기능사***
+- ***2020. 12. 29. SQLD***
+- ***정보기기 운용 기능사***
+
 ## Contacts
 - Email : jaychy.yy@gmail.com  
 - [SNS](https://www.facebook.com/profile.php?id=100011390962545)   
