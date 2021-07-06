@@ -6,9 +6,10 @@
 - [Blog](https://velog.io/@dhwlddjgmanf)  
 
 ## Skills
-***Main Languages: Kotlin, Java***  
+***Main Languages: [Kotlin](https://github.com/technical-learn-room/kotlin-learn), Java***  
 ***Web Frameworks: Spring Boot, Spring Security, JPA/Hibernate, Spring Webflux***  
 ***Test Frameworks: Mockito, MockK***  
+***Other Frameworks: [kotlin-js-react](https://github.com/technical-learn-room/kotlin-react-learn), [kotlin-compose-for-desktop](https://github.com/technical-learn-room/kotlin-compose-for-desktop-learn)***  
 ***Storages: MySQL, Redis, H2***  
 ***Infra Managements: Docker, EC2, S3, RDS, Route53***  
 ***Communications: Github, Notion, Slack, Jira***  
