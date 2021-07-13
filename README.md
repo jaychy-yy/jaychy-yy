@@ -27,5 +27,5 @@
 - ***2021. 07. 09. - 정보기기운용기능사***
 
 ## Contacts
-- Email : jaychy.yy@gmail.com  
+- Email : 0816jinjin@gmail.com  
 - [SNS](https://www.facebook.com/profile.php?id=100011390962545)   
