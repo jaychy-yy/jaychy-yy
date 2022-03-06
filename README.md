@@ -3,7 +3,6 @@
 
 ## Information
 - 프리윌린에서 즐겁게 근무 중
-- 대덕소프트웨어마이스터고등학교 5기 재학 중
 - [내 공부방](https://github.com/technical-learn-room)  
 - [Blog](https://velog.io/@dhwlddjgmanf)  
 
